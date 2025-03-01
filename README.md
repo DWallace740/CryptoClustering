@@ -44,5 +44,13 @@ pip install pandas numpy scikit-learn hvplot panel matplotlib
 - Try additional clustering algorithms (DBSCAN, Agglomerative Clustering).
 - Incorporate real-time crypto data for live clustering updates.
 
+## Resources and Support
+
+For this project, I used multiple resources to ensure the successful completion of the assignment:
+
+ChatGPT (AI Assistant): For guidance on code logic, debugging, structuring the scripts, and formatting my README file.
+
+All external resources used are listed here for transparency
+
 ## Author
 This project is part of a **data analytics bootcamp** focusing on unsupervised machine learning techniques. Completed by Daena Wallace
